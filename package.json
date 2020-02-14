@@ -1,0 +1,12 @@
+{
+  "name": "cmd-sprint",
+  "version": "1.0.0",
+  "description": "A quick, fun break from coding!",
+  "main": "runGame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "j-toporoff",
+  "license": "ISC"
+}
