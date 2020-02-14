@@ -3,6 +3,16 @@ Looking for a short mental break from your current project? Then try out cmd-spr
 
 The game is simple. Sprint to the end while avoiding obstacles. Run quickly to see your name in the high scores! (Or edit the high score file directly. I won't tell anyone)
 
+Play the game by typing
+```javascript
+cd node_modules/cmd-sprint
+```
+
+then 
+```javascript
+node runGame.js
+```
+
 Directions
 ---
 Type a character input, then press enter to move your character. Walk into open space, jump over rocks, and duck under cacti.
