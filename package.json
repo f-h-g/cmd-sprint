@@ -1,6 +1,6 @@
 {
   "name": "cmd-sprint",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A quick, fun break from coding!",
   "main": "runGame.js",
   "scripts": {
