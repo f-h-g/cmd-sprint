@@ -1,12 +1,16 @@
 {
   "name": "cmd-sprint",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quick, fun break from coding!",
   "main": "runGame.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j-toporoff/cmd-sprint.git"
+  },
+  "keywords": ["game", "cmd", "highscore"],
   "author": "j-toporoff",
   "license": "ISC"
 }
